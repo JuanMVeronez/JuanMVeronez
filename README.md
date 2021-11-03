@@ -1,4 +1,4 @@
-## Oii 👋 sou o Juan Veronez, atualmente trabalhando como desenvolvedor Web
+## Oii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> sou o Juan Veronez! Atualmente, trabalhando como desenvolvedor Web
 
 ```typescript
  
