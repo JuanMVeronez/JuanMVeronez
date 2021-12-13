@@ -4,7 +4,7 @@
  
 const MoreAboutMe = {
   pronouns: "he" | "his",
-  user: "Emanuela Coutinho",
+  user: "Juan Monteiro Veronez",
   role: "frontend",
   current_work: "Tokenlab",
   current_study_on: "UNIP",
