@@ -3,7 +3,7 @@
 ```typescript
  
 const MoreAboutMe = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   user: "Juan Monteiro Veronez",
   role: "frontend",
   current_work: "Tokenlab",
