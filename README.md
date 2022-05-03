@@ -5,24 +5,23 @@
 const MoreAboutMe = {
   pronouns: "he" | "him",
   user: "Juan Monteiro Veronez",
-  role: "frontend",
-  current_work: "Tokenlab",
+  role: "intern frontend developer",
+  current_work: "Venturus",
   current_study_on: "UNIP",
   hobbies: [
-   "Studying",
-   "Listen Podcasts",
-   "Read about development",
-   "Being up all Night trying to kwon all React community libs",
+   "Studying anything in any moment",
+   "Listening Podcasts or stranger musics",
+   "Tring to create my own contents about programming (Coming soon)",
+   "Passing all night trying to know the new React community libraries created in the past 24 hours",
    currentChallenge: "I am creating my own portfolio website with Nextjs"
 }
 	
 function getCurrentCity() {
-  return Brazil.SP.Campinas
+  return Brazil.RS.PortoAlegre
 }
 	
 function Ambitions() {
   moveToCanada()
-  maybeCreateSkyNet()
   maybeCreateTheNextAmazon()
   createABlog()
   // And more ambitious plans to next 5 years here
