@@ -1,28 +1,28 @@
-## Oii sou o Juan Veronez! Atualmente, trabalhando como desenvolvedor Web
+## Oii sou o Juan Veronez! Atualmente, desenvolvedor Front-end com 2 anos de experiência.
 
 ```typescript
  
 const MoreAboutMe = {
-  pronouns: "he" | "him",
   user: "Juan Monteiro Veronez",
-  role: "intern frontend developer",
-  current_work: "Venturus",
+  pronouns: "he" | "him",
+  role: "frontend developer",
+  current_work_in: "Venturus",
   current_study_on: "UNIP",
   hobbies: [
    "Studying anything in any moment",
-   "Listening Podcasts or stranger musics",
+   "Listening Podcasts or braziliam musics",
    "Tring to create my own contents about programming (Coming soon)",
    "Passing all night trying to know the new React community libraries created in the past 24 hours",
    currentChallenge: "I am creating my own portfolio website with Nextjs"
 }
 	
 function getCurrentCity() {
-  return Brazil.RS.PortoAlegre
+  return Brazil.SP.Campinas
 }
 	
 function Ambitions() {
-  moveToCanada()
-  maybeCreateTheNextAmazon()
+  moveToEurope()
+  maybeCreateTheNextUnicorn()
   createABlog()
   // And more ambitious plans to next 5 years here
  } 
